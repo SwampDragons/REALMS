@@ -9,7 +9,7 @@ class SimonSaysGUI:
         random.seed()
         # the init function is a special function that runs when we
         # "instantiate," or create, the SimonSaysGUI object.  It's called
-        # in line 48, below.
+        # in line 135, below.
         self.turn_number = 1
         self.playing_round = False
 
